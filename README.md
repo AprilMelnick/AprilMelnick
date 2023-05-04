@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi! I'm April. 
+Currently, I'm a student at WBS Coding School for *Marketing Analytics*.
 
-<!--
-**AprilMelnick/AprilMelnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills I'm adding: 
+- Google Analytics
+- SQL
+- Python
 
-Here are some ideas to get you started:
+#### Extra skills I'm bringing:
+- Webflow
+- UX & UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - -
+
+I'm forever learning, so check back to see what new skills I've added.
