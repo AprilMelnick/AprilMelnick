@@ -1,12 +1,12 @@
-## Hi! I'm April. 
-Currently, I'm a student at WBS Coding School for *Marketing Analytics*.
+## 👋 Hi! I'm April. 
+Currently, I'm a student at WBS Coding School for ▪️*Marketing Analytics*▪️.
 
-### Skills I'm adding: 
+### 🔌 Skills I'm adding: 
 - Google Analytics
 - SQL
 - Python
 
-### Extra skills I'm bringing:
+### 👜 Extra skills I'm bringing:
 - Webflow
 - UX & UI
 
