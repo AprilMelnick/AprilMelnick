@@ -29,7 +29,7 @@ But while designing, there was one thing I couldn't keep from creeping in to my 
 
 And since I find practical information ever so exciting, I started learning Webflow. 
 
-As I got deeper in to Webflow, learning about proper class naming and how not to deep stack, I realized that I really enjoyed structuring information. 
+As I got deeper in to Webflow, I realized that not only did I enjoy digging into the structure of web design but I also liked moving in to a less customer facing role. 
 
 When my Career Coach mentioned that the way I spoke about projects reminds her of her Growth Hacker friends, we did some research and found Marketing Analytics. I signed up for the boot camp and am now on my way.
 
