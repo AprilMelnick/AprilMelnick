@@ -21,9 +21,9 @@ Currently, I'm a student at WBS Coding School for *Marketing Analytics*.
 
 Making my way through my first two bootcamps: UX & UI with CareerFoundry, I was surprised to find it all kind of conceptually... easy? As I considered this, I had a small epiphany: of course! A coffee shop bar is an interface.
 
-UX felt familiar because as a Start-up Consultant and Manager for high end coffee shops, I had spent over a decade 🔹*building and maintaining structures*🔹 that keep customers caffeinated, employees happy and bosses making money. 
+UX felt familiar because as a Start-up Consultant and Manager for high end coffee shops, I had spent over a decade ▪️*building and maintaining structures*▪️ that keep customers caffeinated, employees happy and bosses making money. 
 
-A melding of 🔹*business and marketing instinct with a systems thinking approach*🔹.
+A melding of ▪️*business and marketing instinct with a systems thinking approach*▪️.
  
 But while designing, there was one thing I couldn't keep from creeping in to my mind: what about the developers? How would they feel about my designs?
 
@@ -33,4 +33,4 @@ As I got deeper in to Webflow, I realized that not only did I enjoy digging into
 
 When my Career Coach mentioned that the way I spoke about projects reminds her of her Growth Hacker friends, we did some research and found Marketing Analytics. I signed up for the boot camp and am now on my way.
 
-That's my journey so far: 🔹*not typical, but practical*🔹.
+That's my journey so far: ▪️*not typical, but practical*▪️.
