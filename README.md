@@ -29,7 +29,7 @@ A coffee shop bar is an interface.
 A melding of ▪️*business and marketing instinct with a systems thinking approach*▪️.
  
 But while designing, there was one thing I couldn't keep from creeping in to my mind: what about the developers? How would they feel about my designs?
-And since I find practical information ever so exciting, I started learning Webflow. 
+And since I find practical information ever so exciting, I started learning Webflow to get some experience with site structure. 
 
 As I got deeper in to Webflow, I realized that not only did I enjoy digging into the structure of web design but I also liked moving in to a less customer facing role. 
 
