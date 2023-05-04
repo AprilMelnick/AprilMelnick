@@ -33,6 +33,6 @@ And since I find practical information ever so exciting, I started learning Webf
 
 As I got deeper in to Webflow, I realized that not only did I enjoy digging into the structure of web design but I also liked moving in to a less customer facing role. 
 
-When my Career Coach mentioned that the way I spoke about my projects reminds her of her Growth Hacker friends, we did some research and found Marketing Analytics. I signed up for the boot camp and am now on my way.
+One day, my career coach mentioned that the way I spoke about my projects reminds her of her Growth Hacker friends, we did some research and found Marketing Analytics at WBS. I signed up for the boot camp and am now on my way.
 
 That's my journey so far: ▪️*not typical, but practical*▪️.
