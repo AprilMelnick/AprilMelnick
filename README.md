@@ -7,7 +7,7 @@ Currently, I'm a student at WBS Coding School for ▪️*Marketing Analytics*▪
 - Python
 
 ### 👜 Extra skills I'm bringing:
-- Webflow
+- Webflow using Client First by Finsweet v2
 - UX & UI
 
 - - -
