@@ -1,12 +1,15 @@
 ## 👋 Hi! I'm April. 
-Currently, I'm a student at WBS Coding School for ▪️*Marketing Analytics*▪️.
+I'm a ▪️*Marketing Analyst*▪️.
 
-### 🔌 Skills I'm adding: 
-- Google Analytics
+### 🔌 Skills: 
 - SQL
-- Python
+- Google Analytics
+- Google Tag Manager
+- Google Big Query
+- Google Looker Studio
 
 ### 👜 Extra skills I'm bringing:
+- HTML & CSS
 - Webflow using Client First by Finsweet v2
 - UX & UI
 
