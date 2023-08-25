@@ -55,6 +55,6 @@ Querying databases, Google Tag Manager, JavaScript, everything the course threw 
 
   🔛   DEFINITELY flowing, the beginnings of passion...
 
-Not only did I learn technical skills, but during this process, I proved to myself that I have the ability to provide meaningful quantitative and qualitative business insight. And that's where the passion comes in. 
+Not only did I learn technical skills, but during this process, I proved to myself that I have the ability to provide meaningful quantitative and qualitative business insight.
 
-At heart, I'm a problem solver. And now that I'm prepared with an analytic tool belt, I'm looking for the next project to sink my teeth into!
+Now that I'm prepared with an analytic tool belt, I'm looking for the next project to sink my teeth into!
