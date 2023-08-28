@@ -22,6 +22,14 @@ I'm a *Marketing Analyst*.
 <details>
 <summary><h4> 😸 If you're curious, read about my journey.</summary>
 
+At heart, I'm a problem solver and systems thinker. Considering the entire ecosystem of a project and asking the right questions is my strength. 
+
+Delivering information in a way that brings insight is a skill I've honed through years of explaining complicated coffee processes and probably the skill I'm most proud of.
+
+☕️ Wait... coffee? Yes, I'm in a career transition. Let me tell you a bit about my journey.
+
+After a long career in specialty coffee, it was time for a change. UX seemed like a good use of my transferrable skills and I was surprised to find it all kind of conceptually... easy?
+
 After a long career in specialty coffee, it was time for a change. Making my way through my UX course, I was surprised to find it all kind of conceptually... easy? As I considered this, I had a small epiphany: of course it's easy. A coffee shop bar is an interface!
   
 UX felt familiar because I had spent over a decade building and maintaining structures that keep customers caffeinated, employees happy and bosses making money.  
@@ -57,4 +65,6 @@ Querying databases, Google Tag Manager, JavaScript, everything the course threw 
 
 Not only did I learn technical skills, but during this process, I proved to myself that I have the ability to provide meaningful quantitative and qualitative business insight.
 
-Now that I'm prepared with an analytic tool belt, I'm looking for the next project to sink my teeth into!
+And now that I'm prepared with an analytic tool belt, I'm ready to find solutions for you.
+
+Please feel free to contact me!
