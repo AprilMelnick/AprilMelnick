@@ -29,8 +29,6 @@ Delivering information in a way that brings insight is a skill I've honed throug
 ☕️ Wait... coffee? Yes, I'm in a career transition. Let me tell you a bit about my journey.
 
 After a long career in specialty coffee, it was time for a change. UX seemed like a good use of my transferrable skills and I was surprised to find it all kind of conceptually... easy?
-
-After a long career in specialty coffee, it was time for a change. Making my way through my UX course, I was surprised to find it all kind of conceptually... easy? As I considered this, I had a small epiphany: of course it's easy. A coffee shop bar is an interface!
   
 UX felt familiar because I had spent over a decade building and maintaining structures that keep customers caffeinated, employees happy and bosses making money.  
 
