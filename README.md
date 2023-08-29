@@ -9,7 +9,7 @@ I'm a *Marketing Analyst*.
 - Google Looker Studio
 
 ### 👜 Extra skills I'm bringing:
-- HTML & CSS
+- JavaScript, HTML & CSS
 - Webflow using Client First by Finsweet v2
 - UX & UI
 
