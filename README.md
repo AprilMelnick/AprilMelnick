@@ -7,6 +7,11 @@ I'm a *Marketing Analyst*.
 - Google Tag Manager
 - Google Big Query
 - Google Looker Studio
+  
+###  ☁ Skills:
+- Problem Solver
+- Analytical Thinking
+- Effective Communication
 
 ### 👜 Extra skills I'm bringing:
 - JavaScript, HTML & CSS
