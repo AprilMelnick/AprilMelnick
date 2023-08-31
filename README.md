@@ -1,5 +1,10 @@
 ## 👋 Hi! I'm April. 
+
+$~~~~~~~~~$
+
 I'm a *Marketing Analyst*.
+
+$~~~~~~~~~$
 
 ### 🔌 Skills: 
 - SQL
