@@ -35,7 +35,7 @@ $~~~~~~~~~$
 
 At heart, I'm a problem solver and systems thinker. Considering the entire ecosystem of a project and asking the right questions is my strength. 
 
-Delivering information in a way that brings insight is a skill I've honed through years of explaining complicated coffee processes and probably the skill I'm most proud of.
+Delivering information in a people-friendly way is a skill I've honed through years of explaining complicated coffee processes and probably the skill I'm most proud of.
 
 ☕️ Wait... coffee? Yes, I'm in a career transition. Let me tell you a bit about my journey.
 
