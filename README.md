@@ -12,6 +12,7 @@ I'm a *Marketing Analyst*.
 - Problem Solver
 - Analytical Thinking
 - Effective Communication
+- Systems Thinker
 
 ### 👜 Extra skills I'm bringing:
 - JavaScript, HTML & CSS
