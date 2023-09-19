@@ -2,7 +2,7 @@
 
 $~~~~~~~~~$
 
-## I'm a *Marketing Analyst*.
+## I'm a *Marketing Analyst & Connective Communicator*.
 
 $~~~~~~~~~$
 
